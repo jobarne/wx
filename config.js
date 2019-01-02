@@ -1,0 +1,10 @@
+host = 'wx2';	// hostname or IP address
+port = 9001;
+topic = 'vessels/#'; //"#" for everything		// topic to subscribe to
+useTLS = false;
+username = "ssf_xxx";
+password = "ssf_yyyy";
+path = "";
+cleansession = true;
+reconnectTimeout = 5000;
+client_id = new Date().getTime().toString();
