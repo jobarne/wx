@@ -17,7 +17,7 @@ sudo apt-get upgrade
 sudo raspi-config
 ```
 * Enable SSH
-* Change name to wx
+* Change name to wxX
 * Change to Swedish keyboard
 
 ### Install samba
